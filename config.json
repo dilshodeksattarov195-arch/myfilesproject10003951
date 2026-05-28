@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filteruender",
+        "uuid": 34717437,
+        "checksum": "dk6s4k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
